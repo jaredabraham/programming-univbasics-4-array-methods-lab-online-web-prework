@@ -1,5 +1,5 @@
-def using_include(array,"wow")
-  array.include?
+def using_include(array,element1)
+  array.include?(element2)
   
 
 end
